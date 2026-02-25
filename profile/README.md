@@ -1,4 +1,7 @@
-## Hi there 👋
+# Welcome to SimpleGrid 👋
+
+We are an AI Native ERP Solution!
+Find us online at [simplegrid.com](https://simplegrid.com) and on GitHub at [github.com/simplegrid](https://github.com/simplegrid)
 
 <!--
 
